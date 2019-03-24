@@ -4,7 +4,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Ocean Cleanup", "Environment",5000, "4-1-19","4-15-19");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Climate Change", "Eco", 50000, "6-1-19", "6-15-19");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Autism Awareness", "Mental Health",600, "7-1-19", "8-15-19");
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, "A", "family", 100, 3-1, 3-15);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Breast Cancer Awareness", "Health", 600000, "8-8-19", "8-9-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Toy Drive", "Children", 700, "3-3-19", "3-16-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Cat Adoption", "Pets", 650, "3-2-19", "3-17-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Clothes", "family", 100, 3-1, 3-15);
