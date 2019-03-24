@@ -10,7 +10,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Meals on Wheels", "Homeless", 800, "6-5-19", "6-6-19");
 
 INSERT INTO users (name, age) VALUES (1, 'Finnebar', 17);
-INSERT INTO users (name, age) VALUES ("Joe White", 30);
+INSERT INTO users (name, age) VALUES (2, 'Bear', 6);
 INSERT INTO users (name, age) VALUES ("Claire Paper", 30);
 INSERT INTO users (name, age) VALUES ("Emma Wall", 40);
 INSERT INTO users (name, age) VALUES ("Lauren Seed", 24);
