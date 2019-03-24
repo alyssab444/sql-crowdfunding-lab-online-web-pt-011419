@@ -1,1 +1,1 @@
-INSERT INTO projects (id, name, age, breed, net_worth) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
+INSERT INTO projects (id, title, category, funding_goal, net_worth) VALUES (1, "Maru", 3, "Scottish Fold", 1000000);
