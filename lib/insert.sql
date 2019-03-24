@@ -23,10 +23,10 @@ INSERT INTO users (name, age) VALUES ("Alice Stone", 49);
 INSERT INTO users (name, age) VALUES ("Betty Crocker", 76);
 INSERT INTO users (name, age) VALUES ("Elvis Rockstar", 36);
 INSERT INTO users (name, age) VALUES ("Marilyn Monroe", 27);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
-INSERT INTO users (name, age) VALUES ("Jim Brown", 28);
+INSERT INTO users (name, age) VALUES ("Kathy Red", 43);
+INSERT INTO users (name, age) VALUES ("Lucy Sky", 65);
+INSERT INTO users (name, age) VALUES ("Don Jon", 65);
+INSERT INTO users (name, age) VALUES ("Ned Ted", 34);
+INSERT INTO users (name, age) VALUES ("Bo Gardner", 54);
+INSERT INTO users (name, age) VALUES ("Lisa Frank", 21);
 
