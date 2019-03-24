@@ -8,3 +8,4 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Toy Drive", "Children", 700, "3-3-19", "3-16-19");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Cat Adoption", "Pets", 650, "3-2-19", "3-17-19");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Meals on Wheels", "Homeless", 800, "6-5-19", "6-6-19");
+
