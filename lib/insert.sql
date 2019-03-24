@@ -1,10 +1,10 @@
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Dog Adoption", "Animals", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (2, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (3, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (4, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (5, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (6, "A", "family", 100, 3-1, 3-15);
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (7, "A", "family", 100, 3-1, 3-15);
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Dog Adoption", "Animals", 500, "3-1-19", "3-15-2019");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Mental Health Awareness", "Health", 600, "3-16-19", "3-20-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Food Drive", "Community", 700, "3-1-19", "3-15-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Ocean Cleanup", "Environment",5000, "4-1-19","4-15-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Climate Change", "Eco", 50000, "6-1-19", "6-15-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Autism Awareness", "Mental Health",600, "7-1-19", "8-15-19");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("A", "family", 100, 3-1, 3-15);
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, "A", "family", 100, 3-1, 3-15);
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, "A", "family", 100, 3-1, 3-15);
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, "A", "family", 100, 3-1, 3-15);
