@@ -9,25 +9,26 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Cat Adoption", "Pets", 650, "3-2-19", "3-17-19");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ("Meals on Wheels", "Homeless", 800, "6-5-19", "6-6-19");
 
-INSERT INTO users (name, age) VALUES (1, 'Finnebar', 17);
-INSERT INTO users (name, age) VALUES (2, 'Bear', 6);
-INSERT INTO users (name, age) VALUES (3, 'Iguana', 4);
-INSERT INTO users (name, age) VALUES ("Lauren Seed", 24);
-INSERT INTO users (name, age) VALUES ("Ben Little", 31);
-INSERT INTO users (name, age) VALUES ("Sean More", 28);
-INSERT INTO users (name, age) VALUES ("Mike Eve", 41);
-INSERT INTO users (name, age) VALUES ("Time Strange", 27);
-INSERT INTO users (name, age) VALUES ("George Bond", 19);
-INSERT INTO users (name, age) VALUES ("Alice Stone", 49);
-INSERT INTO users (name, age) VALUES ("Betty Crocker", 76);
-INSERT INTO users (name, age) VALUES ("Elvis Rockstar", 36);
-INSERT INTO users (name, age) VALUES ("Marilyn Monroe", 27);
-INSERT INTO users (name, age) VALUES ("Kathy Red", 43);
-INSERT INTO users (name, age) VALUES ("Lucy Sky", 65);
-INSERT INTO users (name, age) VALUES ("Don Jon", 65);
-INSERT INTO users (name, age) VALUES ("Ned Ted", 34);
-INSERT INTO users (name, age) VALUES ("Bo Gardner", 54);
-INSERT INTO users (name, age) VALUES ("Lisa Frank", 21);
+INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), 
+INSERT INTO users (id, name, age) VALUES (2, 'Bear', 6), 
+INSERT INTO users (id, name, age) VALUES INSERT INTO users (id, name, age) VALUES (3, 'Iguana', 4), 
+INSERT INTO users (id, name, age) VALUES (4, 'Alex', 33),
+INSERT INTO users (id, name, age) VALUES (5, 'Amanda', 24), 
+(6, 'Sophie', 24), 
+(7, 'Rosey', 9), 
+(8, 'Victoria', 23), 
+(9, 'Franz', 100), 
+(10, 'Hermione', 30),
+(11, 'Voldemort', 90), 
+(12, 'Marisa', 24), 
+(13, 'Swizzle', 4), 
+(14, 'Sirius', 36), 
+(15, 'Albus', 113), 
+(16, 'Squid', 5),
+(17, 'Whale', 6), 
+(18, 'Pacha', 5), 
+(19, 'Ena', 24), 
+(20, 'Katie', 24);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (65, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (30, 1, 6);
